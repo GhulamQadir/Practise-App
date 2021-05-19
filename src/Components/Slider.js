@@ -59,7 +59,7 @@ class Slider extends React.Component{
    <Carousel.Item>
     <img
       className="d-block"
-      src="https://cdn.shopify.com/s/files/1/0144/7827/8739/products/105A7187copy_2000x.jpg?v=1612620475"
+      src="https://reviewit.pk/wp-content/uploads/2019/12/Aiman-Muneeb-4.jpg"
       alt="Third slide"
     />
     <Carousel.Caption>

@@ -50,10 +50,27 @@
 }
 .mainCompCards{
   padding: 15px 20px 7px 20px;
-  margin: 15px 30px 15px 30px !important;
+  margin: 15px 3px 10px 3px !important;
   width: 16rem !important;
-  border: 1.5px solid grey;
+  border: 2px solid grey;
 }
 .cardImg{
   height: 250px !important;
+} 
+.cardBtn{
+  background-color: grey;
+  width: 150px;
+  border-radius: 0.2px;
+}
+.cardBtn:hover{
+  background-color: gray !important;
+  border: 2px solid grey;
+}
+.cardBtn:active{
+  background-color: gray !important;
+  border: 2px solid grey;
+}
+.cardBtn:focus{
+  background-color: gray !important;
+  border: 2px solid grey;
 }

@@ -7,9 +7,9 @@ class Links extends React.Component{
         return(
             <div>
                 <p><span className="categories">Categories:</span>
-                <Link className="itemLink" to="#">Shalwar Kameez</Link>
-                <Link className="itemLink" to="#">Paint Shirt</Link>
-                <Link className="itemLink" to="#">Coat Paint </Link>
+                <Link className="itemLink" to="/shalwar-kameez">Shalwar Kameez</Link>
+                <Link className="itemLink" to="/pant-shirts">Pant Shirt</Link>
+                <Link className="itemLink" to="/coat-pant">Coat Paint </Link>
                 <Link className="itemLink" to="#">Twinset</Link>
                 <Link className="itemLink" to="#">Waistcoat</Link>
                 <Link className="itemLink" to="#">Bridal Dress</Link>
